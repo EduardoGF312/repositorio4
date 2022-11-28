@@ -7,6 +7,7 @@
     <title>contacto</title>
 </head>
 <body>
-    <h1>contacto</h1>
+    <h1>index</h1>
+    <h2>Cambio de la V2</h2>
 </body>
 </html>
